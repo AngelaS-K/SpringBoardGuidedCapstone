@@ -2,5 +2,6 @@
 data
 images
 raw_data
-pipfile
+Pipfile
+Pipfile.lock
 .ipnyb_checkpoints
